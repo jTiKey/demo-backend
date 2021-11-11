@@ -1,29 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Viacheslav's Full Stack Demo Project
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+## Stack
 
-## Setup
+Python 3.9.8
 
-Make sure to install the dependencies
+Django 3.1.13
 
-```bash
-yarn install
-```
+Nuxt 2.15.7
 
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+TypeScript
+Pug
+SASS
