@@ -336,5 +336,3 @@ jtikey/media/
 .envs/*
 
 !.envs/.local/
-
-frontend/
