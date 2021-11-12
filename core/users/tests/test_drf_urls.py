@@ -1,7 +1,7 @@
 import pytest
 from django.urls import resolve, reverse
 
-from jtikey.users.models import User
+from core.users.models import User
 
 pytestmark = pytest.mark.django_db
 

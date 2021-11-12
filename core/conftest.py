@@ -1,7 +1,7 @@
 import pytest
 
-from jtikey.users.models import User
-from jtikey.users.tests.factories import UserFactory
+from core.users.models import User
+from core.users.tests.factories import UserFactory
 
 
 @pytest.fixture(autouse=True)

@@ -8,6 +8,6 @@ class UsersConfig(AppConfig):
 
     def ready(self):
         try:
-            import jtikey.users.signals  # noqa F401
+            import core.users.signals  # noqa F401
         except ImportError:
             pass
